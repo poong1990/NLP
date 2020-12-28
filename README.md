@@ -1,3 +1,8 @@
+### 데이터
+* 학습데이터 : train_sep_1.csv, train_sep_2.csv, train_sep_3.csv    
+용량이 너무 커서 분할했으니 순서대로 합치기만 하면 문제없이 사용가능하다.    
+* 테스트데이터 : test_data.csv    
+
 ### 자연어처리 (Natural Language Processing)    
 학습 데이터 : amazon.com 10개 카테고리 제품 리뷰 및 별점    
 아마존닷컴 리뷰구조는 부정(1-3점), 긍정(4-5점)으로 이루어져 있다.    
